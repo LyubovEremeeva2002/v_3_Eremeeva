@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eremeeva_v_3</string>
+    <string name="btsd">Button</string>
+    <string name="smarts">Мое смарт-устройство</string>
+    <string name="km13">1.3 km</string>
+    <string name="kcal59">59 kcal</string>
+    <string name="min30">30 min</string>
+    <string name="steps152">1583 steps</string>
+    <string name="ggsaf">62kg</string>
+    <string name="hhgf">82bmp</string>
+    <string name="fsavv">TODO</string>
+    <string name="vvesf">TODO</string>
+    <string name="stepssdsf">112576 steps</string>
+    <string name="recs">TODO</string>
+    <string name="mapsdd">Маршруты</string>
+    <string name="infors">краткая информация</string>
+</resources>
